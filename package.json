@@ -1,0 +1,14 @@
+{
+  "name": "usagi",
+  "version": "0.0.1",
+  "description": "a trigger tagger",
+  "main": "bot.js",
+  "scripts": {
+        "start": "node bot.js"
+  },
+  "author": "casca",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
