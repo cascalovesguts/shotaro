@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const token = require('./settings.json').token;
-const ddiff = require('return-deep-diff');
+
 client.on('ready', () => {
   console.log('I\'m Online\nI\'m Online');
 });
