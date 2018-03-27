@@ -2,9 +2,9 @@
   "name": "usagi",
   "version": "0.0.1",
   "description": "a trigger tagger",
-  "main": "bot.js",
+  "main": "shotato.js",
   "scripts": {
-        "start": "node bot.js"
+        "start": "node shotaro.js"
   },
   "author": "casca",
   "license": "MIT",
